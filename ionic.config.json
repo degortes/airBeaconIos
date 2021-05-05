@@ -1,0 +1,7 @@
+{
+  "name": "airBeaconIos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
